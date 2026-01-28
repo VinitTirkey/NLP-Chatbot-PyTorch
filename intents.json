@@ -1,0 +1,153 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Whats up"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Have a Good day",
+        "bye",
+        "see ya"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!"
+      ]
+    },
+    {
+      "tag": "creator",
+      "patterns": [
+        "Who made you?",
+        "Who created you?",
+        "Who is your developer?"
+      ],
+      "responses": [
+        "I was built by Vinit using PyTorch.",
+        "My developer is Vinit."
+      ]
+    },
+    {
+      "tag": "programming",
+      "patterns": [
+        "What is programming?",
+        "What is coding?",
+        "Tell me about programming",
+        "Tell me about coding",
+        "What is software development?"
+      ],
+      "responses": [
+        "Programming is basically giving instructions to a computer to solve problems.",
+        "Coding is just writing text that tells a computer what to do.",
+        "Software development is the act of writing code to build applications."
+      ]
+    },
+    {
+      "tag": "stocks",
+      "patterns": [
+        "What are my stocks?",
+        "Which stocks do I own?",
+        "Show my stock portfolio",
+        "Check my wallet"
+      ],
+      "responses": [
+        "Checking database..." 
+      ]
+    }
+  ]
+}{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Whats up"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Have a Good day",
+        "bye",
+        "see ya"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!"
+      ]
+    },
+    {
+      "tag": "creator",
+      "patterns": [
+        "Who made you?",
+        "Who created you?",
+        "Who is your developer?"
+      ],
+      "responses": [
+        "I was built by Vinit using PyTorch.",
+        "My developer is Vinit."
+      ]
+    },
+    {
+      "tag": "programming",
+      "patterns": [
+        "What is programming?",
+        "What is coding?",
+        "Tell me about programming",
+        "Tell me about coding",
+        "What is software development?"
+      ],
+      "responses": [
+        "Programming is basically giving instructions to a computer to solve problems.",
+        "Coding is just writing text that tells a computer what to do.",
+        "Software development is the act of writing code to build applications."
+      ]
+    },
+    {
+      "tag": "stocks",
+      "patterns": [
+        "What are my stocks?",
+        "Which stocks do I own?",
+        "Show my stock portfolio",
+        "Check my wallet"
+      ],
+      "responses": [
+        "Checking database..." 
+      ]
+    }
+  ]
+}
